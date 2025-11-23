@@ -1,13 +1,4 @@
-Haan bhai, yeh content **bilkul sahi aur professional** hai. 👌
 
-Lekin jo tumne paste kiya, woh **aadha (incomplete)** tha. Usme "Backend Setup" aur "Frontend Setup" wala part gayab tha.
-
-Main tumhe **Pura README.md (Start to End)** ek hi block mein de raha hoon.
-Bas is box ke corner pe "Copy" button dabaao aur paste kar do. Kuch aur add karne ki zaroorat nahi hai.
-
------
-
-````markdown
 # 🚀 TaskManager - Frontend Developer Intern Assignment
 
 > A modern, scalable, and secure full-stack web application built with the MERN stack.
@@ -92,7 +83,7 @@ Follow these steps to run the project locally.
 
 ### 1. Clone the Repository
 ```bash
-git clone <YOUR_GITHUB_REPO_LINK_HERE>
+git clone https://github.com/anantq2/Task-manager
 cd bajarangs-task
 ````
 
